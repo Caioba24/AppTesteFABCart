@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mHome"
+        android:icon="@drawable/ic_baseline_home"
+        android:title="Home"
+
+        />
+
+    <item
+        android:id="@+id/mBahia"
+        android:icon="@drawable/ic_baseline_search"
+        android:title="Pesquisar"
+
+        />
+    <item
+        android:id="@+id/placeHolder"
+        android:title="" />
+    <item
+        android:id="@+id/mPedidos"
+        android:icon="@drawable/ic_cutlery"
+        android:title="Pedidos"
+
+        />
+    <item
+        android:id="@+id/mPerfil"
+        android:icon="@drawable/ic_baseline_person"
+        android:title="Perfil"
+
+        />
+
+</menu>
